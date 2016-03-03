@@ -10,8 +10,10 @@
 - [ ] Set up checkboxes for every persona for Core.
 - [ ] Set up checkboxes for every persona for Completion.
 - [ ] Set up checkboxes for every persona for Challenge.
-- 
+
 ### Core Personas
+
+
 
 
 
