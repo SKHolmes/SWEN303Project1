@@ -1,0 +1,17 @@
+{
+  "name": "Project1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SKHolmes/SWEN303Project1",
+  "authors": [
+    "Samual Holmes"
+  ],
+  "description": "SWEN303 Website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
